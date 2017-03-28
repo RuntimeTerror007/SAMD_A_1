@@ -1,0 +1,114 @@
+<resources>
+        <string name="app_name">Custom List</string>
+        <string-array name = "name">
+            <item>Osama Shafique</item>
+            <item>Adrien Alvardo </item>
+            <item>Ali Moeen </item>
+            <item>Burton Bradford </item>
+            <item>Brendon Mccullum</item>
+            <item>Connie Cosme </item>
+            <item>Christian Cage</item>
+            <item>Daniell Diver</item>
+            <item>Dani Destefano </item>
+            <item>Elfrieda Ellington </item>
+            <item>Elton Chigumbura</item>
+            <item>Fazail Ali</item>
+            <item>Faiz Khan</item>
+            <item>Ghazanfar Akbar</item>
+            <item>Ghazmir Khattak</item>
+            <item>Hammad Arif</item>
+            <item>Helen Hayter </item>
+            <item>Ihetisham Sajjad</item>
+            <item>Iris Isakson </item>
+            <item>Jamal Abbasi</item>
+            <item>Joey Jasper </item>
+            <item>Kareen Ketchum </item>
+            <item>Kiley Kring </item>
+            <item>Laiq Khan</item>
+            <item>Larisa Laforce</item>
+            <item>Moadh Khan</item>
+            <item>Nazeer Imran</item>
+            <item>Nadeem Nusrat</item>
+            <item>Omer Farooq</item>
+            <item>Osama Shafique</item>
+            <item>Pervaiz Butt</item>
+            <item>Paresh Rawal</item>
+            <item>Qandeel Baloch</item>
+            <item>Qamar Shareef</item>
+            <item>Raheel Sheikh</item>
+            <item>Rameez Raja</item>
+            <item>Sheila Shives </item>
+            <item>Susanne Sheppard </item>
+            <item>Tayyab Satti</item>
+            <item>Tauseef Tanoli</item>
+            <item>Umer Khayam</item>
+            <item>Usama Shafique</item>
+            <item>Vicky Naseem</item>
+            <item>Vazir Khan</item>
+            <item>Waqar Khan</item>
+            <item>Waheed Murad</item>
+            <item>Xaviour Charles</item>
+            <item>Xachi Arora</item>
+            <item>Yameen Shah</item>
+            <item>Yumna Zaidi</item>
+            <item>Zubair Ahmed</item>
+            <item>Zafri Khan</item>
+        </string-array>
+        <string-array name = "num">
+
+            <item>01-133142-174</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03005206205</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03425557561</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>051554564</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+            <item>03115115588</item>
+        </string-array>
+
+
+</resources>

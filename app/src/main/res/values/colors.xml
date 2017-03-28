@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43b53f</color>
+    <color name="colorPrimaryDark">#312e2d</color>
+    <color name="colorAccent">#1e3333</color>
+    <color name="changingColor1">#1e3333</color>
+    <color name="changingColor2">#3fafaf</color>
+    <color name="changingColor3">#164b0a</color>
+    <color name="changingColor4">#96681d</color>
+    <color name="changingColor5">#03ecec</color>
+    <color name="changingColor6">#42010a0a</color>
+    <color name="changingColor7">#2811e4e4</color>
+    <color name="changingColor8">#d40b3333</color>
+    <color name="changingColor9">#8aa9a9</color>
+</resources>
